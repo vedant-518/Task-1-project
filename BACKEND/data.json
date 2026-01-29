@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Shoes",
+    "price": 2999,
+    "image": "https://picsum.photos/200?1",
+    "desc": "Comfortable running shoes"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 1999,
+    "image": "https://picsum.photos/200?2",
+    "desc": "Fitness tracking watch"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 1499,
+    "image": "https://picsum.photos/200?3",
+    "desc": "Noise cancelling"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 999,
+    "image": "https://picsum.photos/200?4",
+    "desc": "Waterproof bag"
+  }
+]

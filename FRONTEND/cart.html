@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Your Cart</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Your Cart</h1>
+    <div id="cart"></div>
+    <button onclick="confirmOrder()">Confirm Order</button>
+    <button onclick="logout()">Logout</button>
+
+    <script src="app.js"></script>
+    <script>
+      checkLogin();
+      loadCart();
+    </script>
+  </body>
+</html>

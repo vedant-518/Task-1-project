@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ShopEasy - Login</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="auth-body">
+
+<div class="login-container">
+  <div class="login-left">
+    <h1>ShopEasy</h1>
+    <p>Smart Shopping Platform</p>
+  </div>
+
+  <div class="login-right">
+    <h2 id="title">Login</h2>
+    <input id="name" placeholder="Full Name" style="display:none">
+    <input id="email" placeholder="Email">
+    <input id="pass" type="password" placeholder="Password">
+    <button onclick="submitForm()">Login</button>
+    <p id="msg"></p>
+    <p class="toggle" onclick="toggleForm()">New user? Register</p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
