@@ -1,7 +1,3 @@
-## 📸 Screenshot
-
-![App Screenshot](SCREENSHOT/image.png)
-# TASK 4 – Real-Time Communication App | Internship Project
 
 A real-time video conferencing and collaboration web application built using WebRTC, Socket.io, Express.js, and JavaScript.
 
