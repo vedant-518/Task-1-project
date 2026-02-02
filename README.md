@@ -1,16 +1,16 @@
+# ShopEasy – E-Commerce Website
 
-A real-time video conferencing and collaboration web application built using WebRTC, Socket.io, Express.js, and JavaScript.
+ShopEasy is a simple and responsive e-commerce web application developed to demonstrate frontend and backend concepts.  
+The project includes a clean UI, user authentication screens, and basic shopping platform design.
 
 ## Features
-- Video calling
-- Screen sharing
-- File sharing
-- Whiteboard collaboration
+- User login interface
+- Clean and responsive UI
+- Modern gradient-based design
+- Beginner-friendly project structure
+
+## Tech Stack
+HTML, CSS, JavaScript, Node.js (if backend used)
 
 ## 📸 Screenshot
-![App Screenshot](SCREENSHOT/image.png)
-
-## Run Project
-```bash
-npm install
-npm start
+![ShopEasy Screenshot](SCREENSHOT/image.png)
